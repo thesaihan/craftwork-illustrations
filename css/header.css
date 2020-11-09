@@ -26,6 +26,8 @@ header li {
 }
 
 header a {
+  letter-spacing: 1px;
+  font-size: 14px;
   text-decoration: none;
   transition: all 200ms ease-out;
 }
